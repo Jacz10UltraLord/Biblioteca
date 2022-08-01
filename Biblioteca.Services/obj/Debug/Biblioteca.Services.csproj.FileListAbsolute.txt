@@ -1,0 +1,198 @@
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Biblioteca.Services.dll.config
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Biblioteca.Services.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Biblioteca.Services.pdb
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\EntityFramework.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Options.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Buffers.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Collections.Immutable.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.ComponentModel.Annotations.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Memory.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Numerics.Vectors.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\EntityFramework.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Options.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Buffers.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Collections.Immutable.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Memory.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Numerics.Vectors.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\obj\Debug\Biblioteca.Services.csproj.SuggestedBindingRedirects.cache
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\obj\Debug\Biblioteca.Services.csproj.CoreCompileInputs.cache
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\obj\Debug\Biblioteca.Services.csproj.CopyComplete
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\obj\Debug\Biblioteca.Services.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\obj\Debug\Biblioteca.Services.pdb
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Biblioteca.Services.dll.config
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Biblioteca.Services.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Biblioteca.Services.pdb
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\EntityFramework.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Options.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Buffers.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Collections.Immutable.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.ComponentModel.Annotations.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Memory.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Numerics.Vectors.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\EntityFramework.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Options.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Buffers.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Collections.Immutable.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Memory.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Numerics.Vectors.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\obj\Debug\Biblioteca.Services.csproj.SuggestedBindingRedirects.cache
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\obj\Debug\Biblioteca.Services.csproj.CoreCompileInputs.cache
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\obj\Debug\Biblioteca.Services.csproj.CopyComplete
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\obj\Debug\Biblioteca.Services.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\obj\Debug\Biblioteca.Services.pdb
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\obj\Debug\Biblioteca.Services.csproj.AssemblyReference.cache
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Azure.Core.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Biblioteca.DTO.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Graph.Core.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Graph.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Identity.Client.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Newtonsoft.Json.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Memory.Data.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Net.Http.WinHttpHandler.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Text.Encodings.Web.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Text.Json.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.ValueTuple.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Biblioteca.DTO.pdb
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Biblioteca.DTO.dll.config
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Azure.Core.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Graph.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Graph.Core.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.Identity.Client.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\Newtonsoft.Json.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Memory.Data.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Net.Http.WinHttpHandler.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Text.Encodings.Web.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.Text.Json.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca - copia\Biblioteca.Services\bin\Debug\System.ValueTuple.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Azure.Core.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Biblioteca.DTO.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Graph.Core.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Graph.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Identity.Client.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Newtonsoft.Json.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Memory.Data.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Net.Http.WinHttpHandler.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Text.Encodings.Web.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Text.Json.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.ValueTuple.dll
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Biblioteca.DTO.pdb
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Biblioteca.DTO.dll.config
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Azure.Core.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Graph.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Graph.Core.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.Identity.Client.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\Newtonsoft.Json.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Memory.Data.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Net.Http.WinHttpHandler.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Text.Encodings.Web.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.Text.Json.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\bin\Debug\System.ValueTuple.xml
+D:\JORGE\Mis Proyectos\Biblioteca\Biblioteca\Biblioteca.Services\obj\Debug\Biblioteca.Services.csproj.AssemblyReference.cache

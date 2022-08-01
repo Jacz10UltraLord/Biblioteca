@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe135a2f-a2b4-4801-aefe-28a119e4f9ca": {
+      "ProjectGuid": "fe135a2f-a2b4-4801-aefe-28a119e4f9ca",
+      "DisplayName": "Biblioteca",
+      "ColorIndex": 0
+    },
+    "1463065a-02e0-41a5-9bfb-a246a87342f0": {
+      "ProjectGuid": "1463065a-02e0-41a5-9bfb-a246a87342f0",
+      "DisplayName": "Biblioteca.DTO",
+      "ColorIndex": 1
+    },
+    "9909581e-8479-43e1-951b-c06c7ef32329": {
+      "ProjectGuid": "9909581e-8479-43e1-951b-c06c7ef32329",
+      "DisplayName": "Biblioteca.Services",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
